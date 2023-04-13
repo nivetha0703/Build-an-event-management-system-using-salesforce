@@ -1,6 +1,6 @@
 # Build-an-event-management-system-using-salesforce
 
-https://we.tl/t-VkzochNiFU
+https://drive.google.com/file/d/1MpA-L_PEtBCigoxPCP6qlVs1eDI0wr5W/view?usp=share_link
 
 Team Lead - https//trailblazer.me/id/nsankar30
 Team Member-https//trailblazer.me/id/rpraveena1
